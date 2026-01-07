@@ -4,7 +4,7 @@
   "description": "A gameboy emulator for LLM's",
   "main": "index.js",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.10.2",
+    "@modelcontextprotocol/sdk": "^1.25.2",
     "@types/multer": "^1.4.12",
     "accepts": "^2.0.0",
     "acorn": "^8.14.1",
